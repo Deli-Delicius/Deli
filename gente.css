@@ -7,7 +7,7 @@
     display: flex;
     
 }
-.mision{
+.nosotros-cuerpo{
     background-color: rgb(187, 187, 187);
     border-radius: 20px;
     padding: 20px;
@@ -15,26 +15,29 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.mision h1{
+.nosotros-cuerpo h1{
     margin-top: 30px;
     font-size: 20px;
     font-weight: 500;
 }
-.mision h2 {
+.nosotros-cuerpo h2 {
     margin-top: 10px;
     font-size: 35px;
     font-weight: 700;
 }
-.mision h3 {
+.nosotros-cuerpo h3 {
     margin-top: 15px;
     font-size: 18px;
     font-weight: 400;
 }
-.nosotros .plan {
+.nosotros .nosotros-imagen {
     height: 400px;
     width: 600px;
     margin-top: 0px;
     border-radius: 20px;
+
+}
+.valores {
 
 }
 
@@ -44,15 +47,15 @@
         margin-left: 2%;    
         display:block;
     }
-    .mision{
+    .nosotros-cuerpo{
         margin-right: 0px;
         margin-top: 10px;
         margin-bottom: 30px;
     }
-    .mision h1{
+    .nosotros-cuerpo h1{
         margin-top: 20px;
     }
-    .nosotros .plan{
+    .nosotros .nosotros-imagen{
         height: 100%;
         width: 100%;
         margin-top: 0px;
